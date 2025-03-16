@@ -1,0 +1,9 @@
+flask
+streamlit
+sentence-transformers
+transformers
+faiss-cpu
+scikit-learn
+yfinance
+streamlit
+rank_bm25
